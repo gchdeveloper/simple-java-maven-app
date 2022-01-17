@@ -8,6 +8,8 @@ public class App
 
     private final String message = "Hello World!";
 
+    bart;
+
     public App() {}
 
     public static void main(String[] args) {
